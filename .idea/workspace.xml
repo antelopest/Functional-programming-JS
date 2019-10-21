@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afffc58-998e-4000-b01e-388ce40a6475" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/creational/factory/factory.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_2.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +45,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.singleton.js">
+  <component name="RunManager" selected="Node.js.factory.js">
     <configuration name="constructor.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="constructor.js" working-dir="$PROJECT_DIR$/design-patterns/creational">
+      <method v="2" />
+    </configuration>
+    <configuration name="factory.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="factory.js" working-dir="$PROJECT_DIR$/design-patterns/creational/factory">
       <method v="2" />
     </configuration>
     <configuration name="singleton.js" type="NodeJSConfigurationType" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" working-dir="$PROJECT_DIR$/design-patterns/creational">
@@ -56,9 +58,11 @@
     <list>
       <item itemvalue="Node.js.singleton.js" />
       <item itemvalue="Node.js.constructor.js" />
+      <item itemvalue="Node.js.factory.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.factory.js" />
         <item itemvalue="Node.js.constructor.js" />
       </list>
     </recent_temporary>
@@ -73,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571661187203</updated>
-      <workItem from="1571661189376" duration="7069000" />
+      <workItem from="1571661189376" duration="8816000" />
     </task>
     <servers />
   </component>

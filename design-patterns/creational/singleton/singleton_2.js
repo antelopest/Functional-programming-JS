@@ -1,5 +1,6 @@
 /* Второй способ создания одиночки
 * Определить одиночку внутри объекта */
+
 class Singleton1 {
   constructor() {
     if (typeof Singleton1.instance === 'object') {
