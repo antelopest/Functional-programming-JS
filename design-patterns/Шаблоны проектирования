@@ -1,0 +1,18 @@
+Типы шаблонов:
+Порождающие шаблоны (Creational) - создание новых объектов
+1. Конструктор (Constructor)
+2. Модульный (Module)
+3. Фабричный метод (Factory)
+4. Одиночка (Singletion)
+
+Структурные шаблоны (Structural) - упорядочивают объекты
+1. Декоратор (Decorator)
+2. Фасад (Facade)
+
+Поведенческие (Behavioral) - как объекты соотносятся друг с другом
+1. Наблюдатель (Observer)
+2. Посредник (Mediator)
+3. Команда (Command)
+
+Материал взят отсюда:
+https://medium.com/@marina.kovalyova/java-script-design-patterns-569c627d25f9
