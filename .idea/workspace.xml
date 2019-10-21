@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afffc58-998e-4000-b01e-388ce40a6475" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design-patterns/Creational/module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/creational/factory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/creational/constructor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/Шаблоны проектирования" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/Шаблоны проектирования" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +28,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\js\design-patterns\creational\singleton" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,6 +47,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.singleton.js">
+    <configuration name="constructor.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="constructor.js" working-dir="$PROJECT_DIR$/design-patterns/creational">
+      <method v="2" />
+    </configuration>
+    <configuration name="singleton.js" type="NodeJSConfigurationType" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" working-dir="$PROJECT_DIR$/design-patterns/creational">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.singleton.js" />
+      <item itemvalue="Node.js.constructor.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.constructor.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571661187203</updated>
-      <workItem from="1571661189376" duration="2338000" />
+      <workItem from="1571661189376" duration="6227000" />
     </task>
     <servers />
   </component>

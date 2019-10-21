@@ -32,3 +32,8 @@ class Vehicle {
 
 let someTruck = new Vehicle('Truck', 'red');
 someTruck.getSpecs();
+
+
+
+
+
