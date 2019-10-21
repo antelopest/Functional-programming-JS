@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afffc58-998e-4000-b01e-388ce40a6475" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design-patterns/creational/factory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/creational/constructor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/Шаблоны проектирования" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/Шаблоны проектирования" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571661187203</updated>
-      <workItem from="1571661189376" duration="6227000" />
+      <workItem from="1571661189376" duration="7069000" />
     </task>
     <servers />
   </component>
