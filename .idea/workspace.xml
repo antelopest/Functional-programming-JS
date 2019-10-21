@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afffc58-998e-4000-b01e-388ce40a6475" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design-patterns/Creational/constructor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/Шаблоны проектирования" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/Creational/module.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571661187203</updated>
-      <workItem from="1571661189376" duration="1923000" />
+      <workItem from="1571661189376" duration="2338000" />
     </task>
     <servers />
   </component>
