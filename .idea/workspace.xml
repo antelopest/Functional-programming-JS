@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afffc58-998e-4000-b01e-388ce40a6475" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Функциональное программирование.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/Function Declaration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/Scopes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function, Arrow Function, Сontext, Сircuit/Функции" beforeDir="false" afterPath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/Функции" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/constructor/constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/constructor/constructor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/factory/abstractfactory.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/factory/abstractfactory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/factory/factory.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/factory/factory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/module/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/module/module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/singleton/singleton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/singleton/singleton_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/singleton/singleton_2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/Шаблоны проектирования" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/Шаблоны проектирования" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +25,7 @@
   <component name="ProjectId" id="1SVufORZy1dKVCkca6B1qQu24CH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -96,7 +88,7 @@
       <workItem from="1571661189376" duration="9600000" />
       <workItem from="1571680880144" duration="17000" />
       <workItem from="1572132220602" duration="528000" />
-      <workItem from="1572132932386" duration="255000" />
+      <workItem from="1572132932386" duration="1286000" />
     </task>
     <servers />
   </component>
