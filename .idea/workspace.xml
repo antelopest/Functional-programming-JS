@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afffc58-998e-4000-b01e-388ce40a6475" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Function, Arrow Function, Сontext, Сircuit/Функции" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Функциональное программирование.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Arrow Function, Сontext, Сircuit/Функции" beforeDir="false" afterPath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/Функции" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/constructor/constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/constructor/constructor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/factory/abstractfactory.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/factory/abstractfactory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/factory/factory.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/factory/factory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/module/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/module/module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/singleton/singleton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/singleton/singleton_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/creational/singleton/singleton_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/creational/singleton/singleton_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/Шаблоны проектирования" beforeDir="false" afterPath="$PROJECT_DIR$/Паттерны проектированияя/Шаблоны проектирования" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +37,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -46,16 +57,16 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.abstractfactory.js">
-    <configuration name="abstractfactory.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="abstractfactory.js" working-dir="$PROJECT_DIR$/design-patterns/creational/factory">
+    <configuration name="abstractfactory.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Паттерны проектированияя/creational/factory/abstractfactory.js" working-dir="$PROJECT_DIR$/Паттерны проектированияя/creational/factory">
       <method v="2" />
     </configuration>
-    <configuration name="constructor.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="constructor.js" working-dir="$PROJECT_DIR$/design-patterns/creational">
+    <configuration name="constructor.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="constructor.js" working-dir="$PROJECT_DIR$/Паттерны проектированияя/creational">
       <method v="2" />
     </configuration>
-    <configuration name="factory.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="factory.js" working-dir="$PROJECT_DIR$/design-patterns/creational/factory">
+    <configuration name="factory.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Паттерны проектированияя/creational/factory/factory.js" working-dir="$PROJECT_DIR$/Паттерны проектированияя/creational/factory">
       <method v="2" />
     </configuration>
-    <configuration name="singleton.js" type="NodeJSConfigurationType" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/design-patterns/creational/singleton/singleton.js" working-dir="$PROJECT_DIR$/design-patterns/creational">
+    <configuration name="singleton.js" type="NodeJSConfigurationType" path-to-node="wsl://UBUNTU@/usr/local/bin/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Паттерны проектированияя/creational/singleton/singleton.js" working-dir="$PROJECT_DIR$/Паттерны проектированияя/creational">
       <method v="2" />
     </configuration>
     <list>
@@ -84,7 +95,8 @@
       <updated>1571661187203</updated>
       <workItem from="1571661189376" duration="9600000" />
       <workItem from="1571680880144" duration="17000" />
-      <workItem from="1572132220602" duration="267000" />
+      <workItem from="1572132220602" duration="528000" />
+      <workItem from="1572132932386" duration="255000" />
     </task>
     <servers />
   </component>
