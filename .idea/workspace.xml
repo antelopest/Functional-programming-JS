@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afffc58-998e-4000-b01e-388ce40a6475" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/Function Declaration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/Scopes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/1-function-declaration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/10-iife.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/11-call-apply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/12-comments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/13-decompose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/2-scopes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/3-abstraction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/4-introspection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/5-default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/6-rest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/7-new.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/8-method.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function, Function Arrow, Scopes/9-this.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/1-function-declaration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/2-scopes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/3-abstraction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/4-introspection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/5-default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции, лямбды, контексты, замыкания/6-rest.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +45,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="nodejs_interpreter_path" value="wsl://UBUNTU@/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,7 +106,11 @@
       <workItem from="1571661189376" duration="9600000" />
       <workItem from="1571680880144" duration="17000" />
       <workItem from="1572132220602" duration="528000" />
-      <workItem from="1572132932386" duration="1286000" />
+      <workItem from="1572132932386" duration="6135000" />
+      <workItem from="1572140357563" duration="168000" />
+      <workItem from="1572140541983" duration="2581000" />
+      <workItem from="1572148972453" duration="11000" />
+      <workItem from="1572149034227" duration="983000" />
     </task>
     <servers />
   </component>
